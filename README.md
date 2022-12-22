@@ -26,7 +26,7 @@ Detailed description of this project is in the file "Final Report.pdf".
 * if you have more than 100M to invest, in this case, which production company you work with matters. We recommend collaborating with one of the more prestigious companies.
 
 ## Prediction Results
-This model is built in Dec 2019. At that time, We predicted a soon to be released movie Mulan (by Disney) and our model tells us that this movie will be a lucrative movie;.  
+This model was made in the December of 2019. At that time, we predicted a soon to be released movie Mulan (by Disney) would be lucrative, according to this model;.  
 ![avatar](/images/mulan.jpg)
 
 ## Limitations
