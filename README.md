@@ -26,8 +26,8 @@ Detailed description of this project is in the file "Final Report.pdf".
 * if you have more than 100M to invest, in this case, which production company you work with matters. We recommend collaborating with one of the more prestigious companies.
 
 ## Prediction Results
-This model was made in the December of 2019. At that time, we predicted a soon to be released movie Mulan (by Disney) would be lucrative, according to this model;.  
+This model was made in the December of 2019. At that time, we predicted a soon to be released movie Mulan (by Disney) would be lucrative, according to this model.  
 ![avatar](/images/mulan.jpg)
 
 ## Limitations
-Mulan turns out to be a failure for Disney. But this is caused by the pandemic.  This also proves that our model can not respond well to big emergencies, such as Covid-19. This is where we can make improvements.
+Mulan turned out to be a failure for Disney. But this was caused by the pandemic. This also proves that our model can not respond well to big emergencies, such as Covid-19. This is where improvements can be made.
